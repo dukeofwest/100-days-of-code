@@ -1,22 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 03, 2019 (Example 1)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed the layout of a landing page
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Creating the page's layout without a framework was quite interesting. Trying to get a hang of CSS flexbox was a challenge.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Landing Page](https://bit.ly/2VMb3Sm)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: May 4th, 2018 (Example 2)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Could not fix the CSS flexbox. I tried to understand CSS flexbox in great detail
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I do not understand why my code is not working even after debugging and all. I hope i can get it fixed tomorrow. The goal is to complete easier projects in due time.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Landing Page](https://bit.ly/2VMb3Sm)
 
 
 ### Day 1: June 27, Monday
