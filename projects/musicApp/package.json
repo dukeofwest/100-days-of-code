@@ -1,0 +1,14 @@
+{
+  "name": "musicapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "unirest": "^0.6.0"
+  }
+}
